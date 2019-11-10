@@ -37,3 +37,16 @@ Code refactoring according to clean code principles.
 
 Reading and writing dictionaries to csv file
 
+## Advanced Features
+
+Usage of some Python features like:
+
+* max and sort, with key parameters
+* list comprehensions
+* sets
+* enumerate()
+* with statement (for reading files)
+* string formatting (f-strings or .format())
+* collections.Counter()
+
+
